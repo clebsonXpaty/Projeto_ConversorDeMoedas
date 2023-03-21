@@ -14,7 +14,7 @@ Linguagem utilizada :
 Ferramenta utilizada no desenvolvimento:
 
 ### Eclipse 
-### Imagns do funcionamento do Programa
+###  Imagens do funcionamento do programa
 ![image](https://user-images.githubusercontent.com/120985120/226634420-02d4870b-d775-4bf0-8407-6ce9353ad56d.png)
 
 
