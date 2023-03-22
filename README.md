@@ -1,4 +1,5 @@
-<h1 align=”left”> Olá eu sou o Clebson<img src=”https://github.com/clebsonXpaty” width=”30px”><h1>
+<h1 align=”left”> Olá eu sou o Clebson 
+E este é o meu mais novo projet  </h1>
                                            
 # Projeto conversor de moedas 
 
@@ -6,7 +7,7 @@
 
 ### Esse é um projeto que desenvolvi dentro do programa de educação do qual participo atualmente, esse é um programa pensado pela Oracle e executado pela escola de educação( Alura), que tem como intuito inserir pessoas no mundo do desenvolvimento e programação, oferecendo assim um boa formação profissional e lhes abrindo um novo horizonte de oportunidades;
 
-https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/
+[Linkedin](https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/)
 
 Linguagem utilizada :
 
