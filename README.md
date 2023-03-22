@@ -1,5 +1,5 @@
-<h1 align=”left”> Olá eu sou o Clebson<img src=”https://github.com/clebsonXpaty”<h1>
-  
+<h1 align=”left”> Olá eu sou o Clebson<img src=”https://github.com/clebsonXpaty” width=”30px”><h1>
+                                           
 # Projeto conversor de moedas 
 
 ## A principal função desse programa é o de fazer a conversão de moedas internacionais para a moeda brasileira e vice versa;
