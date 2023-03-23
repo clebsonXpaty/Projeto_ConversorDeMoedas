@@ -7,10 +7,9 @@ E este é o meu mais novo projet  </h1>
 
 ### Esse é um projeto que se desenvolve dentro do programa de educação do qual participo atualmente, esse é um programa pensado pela Oracle e executado pela escola de educação( Alura), que tem como intuito inserir pessoas no mundo do desenvolvimento e programação, oferecido assim uma boa formação profissional e lhes abrindo um novo horizonte de oportunidades;
 
-[Linkedin](https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/)
-
-<img src=”https://icongr.am/devicon/linkedin-original.svg?size=55&color=a8a9cd”
- width=”40” height=”30”/>
+<a href =”https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/”>
+<img align=”center” alt=”Clebson_Alves-Linkedin” img src=”https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg” width=”40” height=”30”>
+</a>
 
 Linguagem utilizada :
 
