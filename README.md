@@ -5,13 +5,14 @@ E este é o meu mais novo projet  </h1>
 
 ## A principal função desse programa é o de fazer a conversão de moedas internacionais para a moeda brasileira e vice versa;
 
-### Esse é um projeto que desenvolvi dentro do programa de educação do qual participo atualmente, esse é um programa pensado pela Oracle e executado pela escola de educação( Alura), que tem como intuito inserir pessoas no mundo do desenvolvimento e programação, oferecendo assim um boa formação profissional e lhes abrindo um novo horizonte de oportunidades;
+### Esse é um projeto que se desenvolve dentro do programa de educação do qual participo atualmente, esse é um programa pensado pela Oracle e executado pela escola de educação( Alura), que tem como intuito inserir pessoas no mundo do desenvolvimento e programação, oferecido assim uma boa formação profissional e lhes abrindo um novo horizonte de oportunidades;
 
-[Linkedin](https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/linkedin/linkedin-original.svg" width=”40” height=”30”/>[Linkedin](https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/)
 
 Linguagem utilizada :
 
 ### Java 
+
 
 Ferramenta utilizada no desenvolvimento:
 
