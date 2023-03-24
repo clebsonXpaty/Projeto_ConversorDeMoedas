@@ -12,12 +12,16 @@ E este é o meu mais novo projet  </h1>
 
 Linguagem utilizada :
 
-### Java 
+### J ava 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40" />
 
-
+:computer:
 Ferramenta utilizada no desenvolvimento:
 
 ### Eclipse 
+
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+
 ###  Imagens do funcionamento do programa
 ![image](https://user-images.githubusercontent.com/120985120/226634420-02d4870b-d775-4bf0-8407-6ce9353ad56d.png)
 
