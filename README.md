@@ -25,6 +25,8 @@ Ferramenta utilizada no desenvolvimento:
 ###  Imagens do funcionamento do programa
 ![image](https://user-images.githubusercontent.com/120985120/226634420-02d4870b-d775-4bf0-8407-6ce9353ad56d.png)
 
+## Minhas redes sociais :pager:
+<a href="https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
 
@@ -46,7 +48,6 @@ Ferramenta utilizada no desenvolvimento:
 
 
 
->
 
 
 
@@ -67,7 +68,8 @@ Ferramenta utilizada no desenvolvimento:
 
 
 
->
+
+
 
 
 
