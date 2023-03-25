@@ -1,4 +1,4 @@
-<h3 align=”left”>  :eyes: Olá eu sou o Clebson 
+<h3 align=”left”>  :eyes: Olá eu sou o Clebson  :wave:
 E este é o meu mais novo projet   :computer: </h3>
                                            
 
@@ -7,6 +7,11 @@ E este é o meu mais novo projet   :computer: </h3>
 ## A principal função desse programa é o de fazer a conversão de moedas internacionais para a moeda brasileira e vice versa;
 
 ### Esse é um projeto que se desenvolve dentro do programa de educação do qual participo atualmente, esse é um programa pensado pela Oracle e executado pela escola de educação( Alura), que tem como intuito inserir pessoas no mundo do desenvolvimento e programação, oferecido assim uma boa formação profissional e lhes abrindo um novo horizonte de oportunidades;
+
+ **Visite os sites da Oracle e Alura links abaixo:**  :arrow_down:  :point_down:
+
+<a href="https://www.alura.com.br/"><img src="https://www.alura.com.br/assets/img/alura-logo.svg" widht="40" height="40" target="_blank"></a>
+
 <a href="https://www.oracle.com/br/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
 
 
