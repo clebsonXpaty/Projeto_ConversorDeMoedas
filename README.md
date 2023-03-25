@@ -15,6 +15,8 @@ Linguagem utilizada :  :fireworks:
 ### J ava
 
 <a href="https://www.oracle.com/br/java/technologies/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40" target="_blank"></a>
+
+
 :computer:
 Ferramenta utilizada no desenvolvimento:
 
