@@ -1,7 +1,8 @@
-<h1 align=”left”> Olá eu sou o Clebson 
-E este é o meu mais novo projet  </h1>
+<h3 align=”left”>  :eyes: Olá eu sou o Clebson 
+E este é o meu mais novo projet   :computer: </h3>
                                            
-# Projeto conversor de moedas 
+
+<h2> Projeto conversor de moedas</h2>:dollar:  :yen: :pound: :euro: :money_with_wings:
 
 ## A principal função desse programa é o de fazer a conversão de moedas internacionais para a moeda brasileira e vice versa;
 
