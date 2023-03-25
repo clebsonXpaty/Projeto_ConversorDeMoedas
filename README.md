@@ -23,7 +23,7 @@ Ferramenta utilizada no desenvolvimento:
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ###  Imagens do funcionamento do programa
-![image](https://user-images.githubusercontent.com/120985120/226634420-02d4870b-d775-4bf0-8407-6ce9353ad56d.png)
+https://user-images.githubusercontent.com/120985120/227667096-6017f0e2-c8fb-42ed-881c-5676b0829aa6.gif
 
 ## Minhas redes sociais :pager:
 <a href="https://www.linkedin.com/in/clebson-alves-desenvolvedorfrontend/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
