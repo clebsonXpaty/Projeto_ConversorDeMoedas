@@ -14,6 +14,10 @@ E este é o meu mais novo projet   :computer: </h3>
 
 <a href="https://www.oracle.com/br/"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>
 
+Este é um {c:#B81365}texto colorido com hexadecimal{/c} 
+
+<h4>Para executar ou rodar este programa é necessário ter ferramentas tais como Eclipse<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> </h4><h4> ou Netbens por exemplo, que são ambientes de desenvolvimento voltados para fins de criação, execução e testes de programas desenvolvidos em linguagens como é o caso do Java.
+ Junto a isso também se faz necessário a utilização de JDK, JRE siglas estas que estão atreladas ao funcionanto das ferramentas acima sitadas e tem como principais funções respectivamente executar e compilar o código e utilizações de API's( os pacotes básicos do Java).</h4>
 
 Linguagem utilizada :  :fireworks:
 
